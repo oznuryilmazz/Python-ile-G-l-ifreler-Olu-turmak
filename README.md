@@ -1,2 +1,2 @@
-# Python-ile-G-l-ifreler-Olu-turmak
+# Python-ile-Güclü-Sifreler-Olusturmak
 Python ile Güçlü Şifreler Oluşturmak
